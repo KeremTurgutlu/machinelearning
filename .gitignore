@@ -1,1 +1,3 @@
+.gitignore
 .ipynb_check*
+ml-latest-small
